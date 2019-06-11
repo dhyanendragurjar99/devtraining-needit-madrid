@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="needit_staging" max_length="40" name="x_58872_needit_needit_staging" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AMC End Date" label="AMC End Date" max_length="40" name="u_amc_end_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AMC Start Date" label="AMC Start Date" max_length="40" name="u_amc_start_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Capablity List" label="Capablity List" max_length="40" name="u_capablity_list" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CI Name" label="CI Name" max_length="40" name="u_ci_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Device Managed By" label="Device Managed By" max_length="40" name="u_device_managed_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DMZ / Non DMZ" label="DMZ / Non DMZ" max_length="40" name="u_dmz___non_dmz" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Domain" label="Domain" max_length="40" name="u_domain" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Floor" label="Floor" max_length="40" name="u_floor" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Impact" label="Impact" max_length="40" name="u_impact" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Management IP" label="Management IP" max_length="40" name="u_management_ip" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturer" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Model/Version" label="Model/Version" max_length="40" name="u_model_version" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Monitoring Status" label="Monitoring Status" max_length="40" name="u_monitoring_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Monitoring via" label="Monitoring via" max_length="40" name="u_monitoring_via" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Operating System" label="Operating System" max_length="40" name="u_operating_system" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Owner Contact" label="Owner Contact" max_length="40" name="u_owner_contact" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Owner Name" label="Owner Name" max_length="40" name="u_owner_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PCI / Non PCI" label="PCI / Non PCI" max_length="40" name="u_pci___non_pci" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Product Name" label="Product Name" max_length="40" name="u_product_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Public IP" label="Public IP" max_length="40" name="u_public_ip" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RCM / Non RCM" label="RCM / Non RCM" max_length="40" name="u_rcm___non_rcm" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Region" label="Region" max_length="40" name="u_region" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Room" label="Room" max_length="40" name="u_room" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Serial Number" label="Serial Number" max_length="40" name="u_serial_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Site+" label="Site+" max_length="40" name="u_site_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Site Group" label="Site Group" max_length="40" name="u_site_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=System Role" label="System Role" max_length="40" name="u_system_role" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Total Physical Memory" label="Total Physical Memory" max_length="40" name="u_total_physical_memory" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Urgency" label="Urgency" max_length="40" name="u_urgency" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=VA PT / Non VA PT" label="VA PT / Non VA PT" max_length="40" name="u_va_pt___non_va_pt" type="string"/>
+    </element>
+</database>
